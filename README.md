@@ -22,5 +22,5 @@ Accuracy: 0.75
     negative       1.00      0.01      0.03        74
     positive       0.75      1.00      0.86       219
     accuracy                           0.75       293
-   macro avg       0.88      0.51      0.44       293
-weighted avg       0.81      0.75      0.65       293
+    macro avg       0.88      0.51      0.44       293
+    weighted avg       0.81      0.75      0.65       293
